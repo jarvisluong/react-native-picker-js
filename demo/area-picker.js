@@ -7,7 +7,7 @@ import React, {
 	Dimensions
 } from 'react-native';
 
-import Picker from 'react-native-picker';
+import Picker from 'react-native-picker-js';
 
 function createAreaData(area){
 	let data = {};

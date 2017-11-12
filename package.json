@@ -1,6 +1,6 @@
 {
   "name": "react-native-picker-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-native-picker-js",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   "engines": {
     "node": ">=4"
   },
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jarvisluong/react-native-picker-js/issues"
   },
