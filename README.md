@@ -1,14 +1,10 @@
-# react-native-picker
+# react-native-picker-js
 
 [![npm version](https://img.shields.io/npm/v/react-native-picker.svg?style=flat-square)](https://www.npmjs.com/package/react-native-picker) <a href="https://david-dm.org/beefe/react-native-picker"><img src="https://david-dm.org/beefe/react-native-picker.svg?style=flat-square" alt="dependency status"></a>  
 
 A Picker written in pure javascript for cross-platform support.
 
-It was most likely an example of how to build a cross-platform Picker Component use [react-native-picker-android](https://github.com/beefe/react-native-picker-android).
-
-### Warn
-if 0.14.2 <= react-native <=0.24 `npm install react-native-picker@2.0.5 --save`  
-if 0.24 < react-native `npm install react-native-picker --save`
+It is the fork of this repo and I will now maintain it [react-native-picker](https://github.com/beefe/react-native-picker).
 
 ### Demo
 
@@ -50,13 +46,19 @@ if 0.24 < react-native `npm install react-native-picker --save`
 #### Step 1 - install
 
 ```
-	npm install react-native-picker --save
+	npm install react-native-picker-js --save
+```
+
+or 
+
+```
+	yarn add react-native-picker-js
 ```
 
 #### Step 2 - import and use in project
 
 ```javascript
-	import Picker from 'react-native-picker'
+	import Picker from 'react-native-picker-js'
 	
 	<Picker
 		style={{

@@ -1,22 +1,22 @@
 {
-  "name": "react-native-picker",
-  "version": "3.0.5",
-  "description": "react-native-picker",
+  "name": "react-native-picker-js",
+  "version": "1.0.0",
+  "description": "react-native-picker-js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beefe/react-native-picker.git"
+    "url": "git+https://github.com/jarvisluong/react-native-picker-js.git"
   },
   "keywords": [
     "react-native",
     "picker"
   ],
   "author": {
-    "name": "zooble",
-    "email": "wenliang.web@gmail.com"
+    "name": "Jarvis Luong",
+    "email": "contact@luongdanghai.com"
   },
   "dependencies": {
     "react-native-picker-android": "~1.0.3"
@@ -26,7 +26,7 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/beefe/react-native-picker/issues"
+    "url": "https://github.com/jarvisluong/react-native-picker-js/issues"
   },
-  "homepage": "https://github.com/beefe/react-native-picker#readme"
+  "homepage": "https://github.com/jarvisluong/react-native-picker-js/#readme"
 }
