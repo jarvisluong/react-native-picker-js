@@ -8,8 +8,7 @@ It is the fork of this repo and I will now maintain it [react-native-picker](htt
 
 ### Demo
 
-- <b>[Date-picker](./demo/date-picker.js)</b>
-- <b>[Area-picker](./demo/area-picker.js)</b>
+https://expo.io/@jarvisluong/react-native-picker-js-demo
 
 
 ![ui](./doc/ui.gif)
